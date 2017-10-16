@@ -1,3 +1,6 @@
+
+<!DOCTYPE html><html><body><h1>My First Heading</h1><p>My first paragraph.</p></body></html> 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sociology4649/tonton/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
